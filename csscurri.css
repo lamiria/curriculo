@@ -10,7 +10,7 @@
     }
     
     body {
-      background: #123456;
+      background: #f0c4d2;
       display: flex;
       justify-content: center;
     }
@@ -47,7 +47,7 @@
     }
     
     #name {
-      background: #012e4b;
+      background: #eca9bf;
       height: 12rem;
       padding: 2rem 0;
       color: #f0f8ff;
